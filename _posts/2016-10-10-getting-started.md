@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Newyork NY"
+author: "pycodersh"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: newyork.jpg
 ---
 
 # Millennial

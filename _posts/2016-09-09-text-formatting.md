@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Busan"
+author: "pycodersh"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: busan.jpg
 ---
 
 # Markdown Support
