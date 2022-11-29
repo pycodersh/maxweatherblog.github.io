@@ -4,7 +4,7 @@ title: "Newyork NY"
 author: "pycodersh"
 categories: documentation
 tags: [documentation,sample]
-image: newyork.jpg
+image: Newyork3.jpeg
 ---
 
 # Millennial
